@@ -75,10 +75,16 @@
 
 
  ---
+ 
 ### <h2 align="center">Контакты для связи</h2>
-Email: kirvik134@yandex.ru  
-
-Телеграмм: @kireeva134
-
+<p align="center">
+  <a href="mailto:kirvik134@yandex.ru" title="Яндекс.Почта" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Yandex_mail_icon.svg" alt="Яндекс.Почта" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/@kireeva134" title="Telegram" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" />
+  </a>
+</p>
 
 ---
